@@ -1,0 +1,39 @@
+_repo: Remember-the-4th_70388
+_version: 0.0.1
+alternative_title: Remember the fourth!
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    aliases:
+    - Loomis, Noel Miller
+    - Miller, Benj.
+    - Water, Silas
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+    wikipedia: https://en.wikipedia.org/wiki/Noel_Loomis
+description: ''
+gutenberg_issued: '2023-03-26'
+identifiers:
+  gutenberg: '70388'
+language: en
+pgterms:marc905: 20220529115701loomis
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Private investigators -- Fiction'
+- !lcsh 'Inventions -- Fiction'
+- !lcsh 'Trials (Divorce) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Remember the 4th!
+url: http://www.gutenberg.org/ebooks/70388
